@@ -1,6 +1,8 @@
 I18n For PHP
 ============
 
+[![CircleCI](https://circleci.com/gh/microparts/i18n-php.svg?style=svg)](https://circleci.com/gh/microparts/i18n-php)
+
 A small instrument for help us use internalization company standard.
 Have a hard dependency from [configuration package](https://github.com/microparts/configuration-php).
 

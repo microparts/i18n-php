@@ -1,0 +1,6 @@
+defaults:
+  lang:
+    display: ru
+    translate_list: false
+    fallback: en
+    second: en

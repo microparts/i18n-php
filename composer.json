@@ -1,0 +1,29 @@
+{
+    "name": "microparts/i18n-php",
+    "description": "Pagination format for TeamcIO standards.",
+    "type": "library",
+    "license": "GNU GPL v3",
+    "authors": [
+        {
+            "name": "roquie",
+            "email": "roquie0@gmail.com"
+        }
+    ],
+    "require": {
+        "microparts/configuration-php": "^2.0",
+        "psr/http-server-middleware": "^1.0",
+        "psr/http-message": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4",
+        "symfony/var-dumper": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Microparts\\I18n\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "files": ["tests/MessageStub.php"]
+    }
+}

@@ -1,10 +1,4 @@
 <?php declare(strict_types=1);
-/**
- * Created by Roquie.
- * E-mail: roquie0@gmail.com
- * GitHub: Roquie
- * Date: 11/11/2018
- */
 
 namespace Microparts\I18n;
 

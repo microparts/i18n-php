@@ -1,3 +1,6 @@
+This package deprecated and abandoned.
+--------------------------------------
+
 I18n For PHP
 ============
 
